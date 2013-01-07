@@ -1,0 +1,14 @@
+qb_timesheets
+=============
+
+Instructions:
+ 1. Export the timesheet data from QuickBooks as an Excel spread sheet.
+ 2. Open the Excel spread sheet in Excel and Save As a CSV file.
+ 3. Use this program to process that CSV file.
+
+Development:
+ 1. Basic use needs just Python 3.x
+ 2. Plotting needs matplotlib and numpy packages. To install these on Windows
+    download and install the binaries of matplotlib and numpy from:
+    * http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+    * https://github.com/matplotlib/matplotlib/downloads

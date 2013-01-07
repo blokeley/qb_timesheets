@@ -1,0 +1,15 @@
+# Files for git to ignore
+
+# Eclipse files
+.project
+.pydevproject
+
+# Compiled Python files
+*.py[cod]
+
+# Build files
+dist
+build
+eggs
+parts
+bin

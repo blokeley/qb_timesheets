@@ -1,0 +1,700 @@
+,,,Date,Name,Billing Status,Duration
+ ,,,,,,
+,Client A:Project A phase 1,,,,,
+,,Consulting H,,,,
+,,,2012-07-17,Person A,Unbilled,2
+,,,2012-07-20,Person A,Unbilled,2
+,,,2012-07-31,Person A,Unbilled,2
+,,,2012-08-03,Person A,Unbilled,2
+,,,2012-08-08,Person A,Unbilled,1
+,,,2012-08-09,Person A,Unbilled,1
+,,,2012-08-15,Person A,Unbilled,2
+,,,2012-08-16,Person A,Unbilled,4
+,,,2012-08-17,Person A,Unbilled,4
+,,,2012-08-23,Person A,Unbilled,4
+,,,2012-08-24,Person A,Unbilled,4
+,,,2012-09-11,Person A,Unbilled,6
+,,,2012-09-12,Person A,Unbilled,6
+,,,2012-09-13,Person A,Unbilled,1.5
+,,,2012-09-19,Person A,Unbilled,6.5
+,,,2012-09-20,Person A,Unbilled,7.5
+,,,2012-09-21,Person A,Unbilled,6
+,,,2012-09-24,Person A,Unbilled,4
+,,,2012-09-25,Person A,Unbilled,8
+,,,2012-09-26,Person A,Unbilled,6
+,,,2012-09-27,Person A,Unbilled,2
+,,,2012-10-02,Person A,Unbilled,2
+,,,2012-10-03,Person A,Unbilled,5
+,,,2012-10-04,Person A,Unbilled,4
+,,,2012-10-05,Person A,Unbilled,5
+,,,2012-10-09,Person A,Unbilled,3
+,,,2012-10-22,Person A,Unbilled,1
+,,,2012-10-25,Person A,Unbilled,4
+,,,2012-11-05,Person A,Unbilled,4
+,,,2012-11-06,Person A,Unbilled,2
+,,,2012-11-07,Person A,Unbilled,2
+,,Total Consulting H,,,,113.5
+,Total Client A:Project A phase 1,,,,,113.5
+,Client B:Project B,,,,,
+,,Consulting H,,,,
+,,,2012-02-23,Person A,Unbilled,4
+,,,2012-02-24,Person A,Unbilled,8
+,,,2012-02-27,Person A,Unbilled,4
+,,Total Consulting H,,,,16
+,Total Client B:Project B,,,,,16
+,Client C:Cream,,,,,
+,,Consulting H,,,,
+,,,2012-05-24,Person A,Unbilled,8
+,,,2012-05-25,Person A,Unbilled,8
+,,,2012-05-28,Person A,Unbilled,3
+,,,2012-05-30,Person A,Unbilled,8
+,,,2012-05-31,Person A,Unbilled,4
+,,,2012-06-14,Person A,Unbilled,4
+,,,2012-06-15,Person A,Unbilled,4
+,,Total Consulting H,,,,39
+,Total Client C:Cream,,,,,39
+,Client D:Ballater,,,,,
+,,Consulting H,,,,
+,,,2012-02-16,Person A,Unbilled,6
+,,,2012-02-17,Person A,Unbilled,8
+,,,2012-02-18,Person A,Unbilled,8
+,,,2012-02-21,Person A,Unbilled,8
+,,,2012-02-22,Person A,Unbilled,8
+,,,2012-02-23,Person A,Unbilled,4
+,,,2012-02-27,Person A,Unbilled,2
+,,,2012-03-01,Person A,Unbilled,2
+,,Total Consulting H,,,,46
+,Total Client D:Ballater,,,,,46
+,My Company Research:Project D,,,,,
+,,Consulting H,,,,
+,,,2012-01-04,Person A,Unbilled,4
+,,,2012-01-05,Person A,Unbilled,2
+,,,2012-01-09,Person A,Unbilled,6.5
+,,,2012-01-10,Person A,Unbilled,4
+,,,2012-01-26,Person A,Unbilled,8
+,,,2012-01-27,Person A,Unbilled,8
+,,,2012-01-30,Person A,Unbilled,4
+,,,2012-02-02,Person A,Unbilled,2
+,,,2012-02-03,Person A,Unbilled,2
+,,,2012-02-27,Person A,Unbilled,1
+,,,2012-03-01,Person A,Unbilled,2
+,,,2012-03-02,Person A,Unbilled,1
+,,,2012-03-05,Person A,Unbilled,6
+,,,2012-03-09,Person A,Unbilled,4
+,,,2012-03-13,Person A,Unbilled,2
+,,,2012-03-16,Person A,Unbilled,2
+,,Total Consulting H,,,,58.5
+,Total My Company Research:Project D,,,,,58.5
+,My Company Research:Lightyear 2,,,,,
+,,Consulting H,,,,
+,,,2012-03-30,Person A,Unbilled,1
+,,Total Consulting H,,,,1
+,Total My Company Research:Lightyear 2,,,,,1
+,My Company Research:Personal Projects,,,,,
+,,Consulting H,,,,
+,,,2012-01-17,Person A,Unbilled,4
+,,,2012-01-18,Person A,Unbilled,4
+,,,2012-06-07,Person A,Unbilled,8
+,,,2012-06-08,Person A,Unbilled,4
+,,Total Consulting H,,,,20
+,Total My Company Research:Personal Projects,,,,,20
+,My Company:Admin:Meeting,,,,,
+,,Consulting H,,,,
+,,,2012-01-09,Person A,Unbilled,1
+,,,2012-01-20,Person A,Unbilled,1
+,,,2012-01-23,Person A,Unbilled,1
+,,,2012-01-30,Person A,Unbilled,1
+,,,2012-02-03,Person A,Unbilled,1
+,,,2012-02-13,Person A,Unbilled,0.5
+,,,2012-02-20,Person A,Unbilled,0.5
+,,,2012-02-27,Person A,Unbilled,0.5
+,,,2012-03-05,Person A,Unbilled,0.5
+,,,2012-03-12,Person A,Unbilled,0.5
+,,,2012-03-19,Person A,Unbilled,0.5
+,,,2012-03-26,Person A,Unbilled,0.5
+,,,2012-04-10,Person A,Unbilled,0.5
+,,,2012-04-13,Person A,Unbilled,1
+,,,2012-04-16,Person A,Unbilled,0.5
+,,,2012-04-23,Person A,Unbilled,0.5
+,,,2012-04-25,Person A,Unbilled,1
+,,,2012-05-08,Person A,Unbilled,0.5
+,,,2012-05-14,Person A,Unbilled,0.5
+,,,2012-05-21,Person A,Unbilled,0.5
+,,,2012-05-28,Person A,Unbilled,1
+,,,2012-06-11,Person A,Unbilled,0.5
+,,,2012-06-18,Person A,Unbilled,1
+,,,2012-06-25,Person A,Unbilled,1
+,,,2012-07-06,Person A,Unbilled,4
+,,,2012-07-09,Person A,Unbilled,0.5
+,,,2012-07-16,Person A,Unbilled,1
+,,,2012-07-20,Person A,Unbilled,0.5
+,,,2012-07-23,Person A,Unbilled,1
+,,,2012-07-30,Person A,Unbilled,1
+,,,2012-08-13,Person A,Unbilled,1
+,,,2012-08-20,Person A,Unbilled,1
+,,,2012-08-24,Person A,Unbilled,1
+,,,2012-09-10,Person A,Unbilled,1
+,,,2012-09-17,Person A,Unbilled,1
+,,,2012-09-21,Person A,Unbilled,1
+,,,2012-09-24,Person A,Unbilled,1
+,,,2012-10-01,Person A,Unbilled,1
+,,,2012-10-05,Person A,Unbilled,1
+,,,2012-10-08,Person A,Unbilled,1
+,,,2012-10-15,Person A,Unbilled,1
+,,,2012-10-22,Person A,Unbilled,0.5
+,,,2012-10-29,Person A,Unbilled,1
+,,,2012-11-02,Person A,Unbilled,1
+,,,2012-11-05,Person A,Unbilled,1
+,,,2012-11-12,Person A,Unbilled,1
+,,,2012-11-19,Person A,Unbilled,1
+,,,2012-11-26,Person A,Unbilled,1
+,,,2012-12-10,Person A,Unbilled,1
+,,Total Consulting H,,,,43.5
+,Total My Company:Admin:Meeting,,,,,43.5
+,My Company:Admin:General Admin,,,,,
+,,Consulting H,,,,
+,,,2012-01-04,Person A,Unbilled,2
+,,,2012-01-09,Person A,Unbilled,0.5
+,,,2012-01-23,Person A,Unbilled,0.5
+,,,2012-01-30,Person A,Unbilled,0.5
+,,,2012-02-01,Person A,Unbilled,5
+,,,2012-02-13,Person A,Unbilled,0.5
+,,,2012-02-20,Person A,Unbilled,0.5
+,,,2012-02-27,Person A,Unbilled,0.5
+,,,2012-03-02,Person A,Unbilled,1
+,,,2012-03-05,Person A,Unbilled,0.5
+,,,2012-03-12,Person A,Unbilled,0.5
+,,,2012-03-19,Person A,Unbilled,0.5
+,,,2012-03-20,Person A,Unbilled,4
+,,,2012-03-21,Person A,Unbilled,8
+,,,2012-03-22,Person A,Unbilled,8
+,,,2012-03-26,Person A,Unbilled,0.5
+,,,2012-03-26,Person A,Unbilled,4
+,,,2012-03-29,Person A,Unbilled,4
+,,,2012-03-30,Person A,Unbilled,1
+,,,2012-04-10,Person A,Unbilled,0.5
+,,,2012-04-16,Person A,Unbilled,0.5
+,,,2012-04-23,Person A,Unbilled,0.5
+,,,2012-04-25,Person A,Unbilled,1
+,,,2012-05-02,Person A,Unbilled,1
+,,,2012-05-08,Person A,Unbilled,0.5
+,,,2012-05-14,Person A,Unbilled,0.5
+,,,2012-05-16,Person A,Unbilled,1
+,,,2012-05-18,Person A,Unbilled,1
+,,,2012-05-21,Person A,Unbilled,0.5
+,,,2012-05-28,Person A,Unbilled,1
+,,,2012-05-31,Person A,Unbilled,4
+,,,2012-06-11,Person A,Unbilled,0.5
+,,,2012-06-25,Person A,Unbilled,1
+,,,2012-06-29,Person A,Unbilled,1
+,,,2012-07-03,Person A,Unbilled,1
+,,,2012-07-09,Person A,Unbilled,0.5
+,,,2012-07-16,Person A,Unbilled,0.5
+,,,2012-07-23,Person A,Unbilled,1
+,,,2012-07-30,Person A,Unbilled,0.5
+,,,2012-08-02,Person A,Unbilled,1.5
+,,,2012-08-13,Person A,Unbilled,2
+,,,2012-08-20,Person A,Unbilled,1
+,,,2012-09-10,Person A,Unbilled,0.5
+,,,2012-09-13,Person A,Unbilled,2.5
+,,,2012-09-17,Person A,Unbilled,1
+,,,2012-09-24,Person A,Unbilled,1
+,,,2012-10-01,Person A,Unbilled,1
+,,,2012-10-08,Person A,Unbilled,1
+,,,2012-10-15,Person A,Unbilled,1
+,,,2012-10-22,Person A,Unbilled,1.5
+,,,2012-10-29,Person A,Unbilled,1
+,,,2012-11-02,Person A,Unbilled,1
+,,,2012-11-05,Person A,Unbilled,1
+,,,2012-11-12,Person A,Unbilled,1
+,,,2012-11-13,Person A,Unbilled,1
+,,,2012-11-14,Person A,Unbilled,1
+,,,2012-11-19,Person A,Unbilled,1
+,,,2012-11-26,Person A,Unbilled,1
+,,,2012-12-06,Person A,Unbilled,1
+,,,2012-12-07,Person A,Unbilled,1
+,,,2012-12-10,Person A,Unbilled,1
+,,Total Consulting H,,,,85
+,Total My Company:Admin:General Admin,,,,,85
+,My Company:Admin:HR/Personnel,,,,,
+,,Consulting H,,,,
+,,,2012-01-23,Person A,Unbilled,1.5
+,,,2012-01-31,Person A,Unbilled,1
+,,Total Consulting H,,,,2.5
+,Total My Company:Admin:HR/Personnel,,,,,2.5
+,My Company:Admin:IT Support,,,,,
+,,Consulting H,,,,
+,,,2012-03-08,Person A,Unbilled,4
+,,,2012-03-09,Person A,Unbilled,4
+,,,2012-03-14,Person A,Unbilled,6
+,,,2012-03-16,Person A,Unbilled,6
+,,,2012-05-14,Person A,Unbilled,3
+,,,2012-05-15,Person A,Unbilled,4
+,,,2012-05-16,Person A,Unbilled,3
+,,,2012-06-27,Person A,Unbilled,2
+,,,2012-06-29,Person A,Unbilled,3
+,,,2012-07-03,Person A,Unbilled,7
+,,,2012-07-04,Person A,Unbilled,8
+,,,2012-07-05,Person A,Unbilled,4
+,,,2012-07-09,Person A,Unbilled,6
+,,,2012-07-10,Person A,Unbilled,8
+,,,2012-07-11,Person A,Unbilled,4
+,,,2012-08-01,Person A,Unbilled,2
+,,Total Consulting H,,,,74
+,Total My Company:Admin:IT Support,,,,,74
+,My Company:Admin:No Work Available,,,,,
+,,Consulting H,,,,
+,,,2012-05-10,Person A,Unbilled,4
+,,,2012-05-17,Person A,Unbilled,6
+,,,2012-05-18,Person A,Unbilled,6
+,,,2012-06-06,Person A,Unbilled,8
+,,,2012-06-15,Person A,Unbilled,4
+,,,2012-06-26,Person A,Unbilled,4
+,,,2012-06-27,Person A,Unbilled,6
+,,,2012-07-13,Person A,Unbilled,8
+,,,2012-11-14,Person A,Unbilled,4
+,,Total Consulting H,,,,50
+,Total My Company:Admin:No Work Available,,,,,50
+,My Company:Admin:Recruitment,,,,,
+,,Consulting H,,,,
+,,,2012-01-10,Person A,Unbilled,2
+,,Total Consulting H,,,,2
+,Total My Company:Admin:Recruitment,,,,,2
+,My Company:Admin:Supplier meeting,,,,,
+,,Consulting H,,,,
+,,,2012-03-07,Person A,Unbilled,2
+,,,2012-04-04,Person A,Unbilled,1
+,,,2012-05-28,Person A,Unbilled,1
+,,Total Consulting H,,,,4
+,Total My Company:Admin:Supplier meeting,,,,,4
+,My Company:Admin:Training,,,,,
+,,Consulting H,,,,
+,,,2012-08-07,Person A,Unbilled,5
+,,,2012-08-09,Person A,Unbilled,5
+,,,2012-08-15,Person A,Unbilled,2
+,,,2012-08-16,Person A,Unbilled,1
+,,,2012-11-23,Person A,Unbilled,4.5
+,,,2012-11-26,Person A,Unbilled,2
+,,,2012-11-27,Person A,Unbilled,6.5
+,,,2012-11-28,Person A,Unbilled,6
+,,,2012-11-29,Person A,Unbilled,5.5
+,,Total Consulting H,,,,37.5
+,Total My Company:Admin:Training,,,,,37.5
+,My Company:Admin:Workshop/Lab Duties,,,,,
+,,Consulting H,,,,
+,,,2012-04-03,Person A,Unbilled,1
+,,,2012-11-13,Person A,Unbilled,2
+,,Total Consulting H,,,,3
+,Total My Company:Admin:Workshop/Lab Duties,,,,,3
+,My Company:Sales:New Client Selling,,,,,
+,,Consulting H,,,,
+,,,2012-03-19,Person A,Unbilled,5
+,,,2012-03-20,Person A,Unbilled,4
+,,,2012-03-23,Person A,Unbilled,8
+,,,2012-03-26,Person A,Unbilled,4
+,,,2012-03-27,Person A,Unbilled,8
+,,,2012-03-28,Person A,Unbilled,8
+,,,2012-03-29,Person A,Unbilled,4
+,,,2012-03-30,Person A,Unbilled,2
+,,,2012-04-03,Person A,Unbilled,7
+,,,2012-04-04,Person A,Unbilled,7
+,,,2012-04-05,Person A,Unbilled,8
+,,,2012-04-10,Person A,Unbilled,3
+,,,2012-04-11,Person A,Unbilled,7
+,,,2012-04-12,Person A,Unbilled,7
+,,,2012-04-13,Person A,Unbilled,7
+,,,2012-04-16,Person A,Unbilled,7
+,,,2012-04-17,Person A,Unbilled,7
+,,,2012-04-18,Person A,Unbilled,8
+,,,2012-04-19,Person A,Unbilled,4
+,,,2012-04-20,Person A,Unbilled,6
+,,,2012-04-23,Person A,Unbilled,2
+,,,2012-04-24,Person A,Unbilled,4
+,,,2012-04-25,Person A,Unbilled,5
+,,,2012-05-02,Person A,Unbilled,7
+,,,2012-05-03,Person A,Unbilled,6
+,,,2012-05-04,Person A,Unbilled,8
+,,,2012-05-08,Person A,Unbilled,6
+,,,2012-05-10,Person A,Unbilled,4
+,,,2012-05-14,Person A,Unbilled,4
+,,,2012-06-18,Person A,Unbilled,7
+,,,2012-06-19,Person A,Unbilled,4
+,,,2012-07-30,Person A,Unbilled,1.5
+,,,2012-10-12,Person A,Unbilled,1
+,,,2012-10-23,Person A,Unbilled,3
+,,,2012-12-14,Person A,Unbilled,4
+,,Total Consulting H,,,,187.5
+,Total My Company:Sales:New Client Selling,,,,,187.5
+,My Company:Sales:Repeat Client Selling,,,,,
+,,Consulting H,,,,
+,,,2012-01-05,Person A,Unbilled,2
+,,,2012-01-06,Person A,Unbilled,8
+,,,2012-01-10,Person A,Unbilled,2
+,,,2012-01-11,Person A,Unbilled,8
+,,,2012-01-12,Person A,Unbilled,8
+,,,2012-01-17,Person A,Unbilled,4
+,,,2012-01-18,Person A,Unbilled,4
+,,,2012-01-19,Person A,Unbilled,8
+,,,2012-01-20,Person A,Unbilled,7
+,,,2012-01-23,Person A,Unbilled,5
+,,,2012-01-24,Person A,Unbilled,8
+,,,2012-01-25,Person A,Unbilled,8
+,,,2012-02-02,Person A,Unbilled,4
+,,,2012-02-09,Person A,Unbilled,6
+,,,2012-02-14,Person A,Unbilled,3
+,,,2012-03-30,Person A,Unbilled,4
+,,,2012-04-10,Person A,Unbilled,4
+,,,2012-05-03,Person A,Unbilled,2
+,,,2012-10-03,Person A,Unbilled,3
+,,,2012-10-04,Person A,Unbilled,1
+,,,2012-10-05,Person A,Unbilled,1
+,,,2012-10-08,Person A,Unbilled,1
+,,,2012-10-12,Person A,Unbilled,1
+,,,2012-10-16,Person A,Unbilled,0.5
+,,,2012-10-18,Person A,Unbilled,4.5
+,,,2012-11-06,Person A,Unbilled,4
+,,Total Consulting H,,,,111
+,Total My Company:Sales:Repeat Client Selling,,,,,111
+,My Company:Sales:Sales Support,,,,,
+,,Consulting H,,,,
+,,,2012-01-05,Person A,Unbilled,2
+,,,2012-01-30,Person A,Unbilled,1.5
+,,,2012-01-31,Person A,Unbilled,2
+,,,2012-02-02,Person A,Unbilled,2
+,,,2012-02-08,Person A,Unbilled,4
+,,,2012-03-07,Person A,Unbilled,5
+,,,2012-03-08,Person A,Unbilled,4
+,,,2012-03-12,Person A,Unbilled,7
+,,,2012-03-13,Person A,Unbilled,6
+,,,2012-03-14,Person A,Unbilled,2
+,,,2012-03-19,Person A,Unbilled,2
+,,,2012-05-16,Person A,Unbilled,2
+,,,2012-06-08,Person A,Unbilled,4
+,,,2012-06-11,Person A,Unbilled,7
+,,,2012-06-12,Person A,Unbilled,8
+,,,2012-06-13,Person A,Unbilled,8
+,,,2012-06-14,Person A,Unbilled,4
+,,,2012-06-19,Person A,Unbilled,4
+,,,2012-06-20,Person A,Unbilled,4
+,,,2012-06-21,Person A,Unbilled,4
+,,,2012-06-22,Person A,Unbilled,4
+,,,2012-07-05,Person A,Unbilled,4
+,,,2012-07-06,Person A,Unbilled,4
+,,,2012-07-11,Person A,Unbilled,4
+,,,2012-07-12,Person A,Unbilled,8
+,,,2012-07-16,Person A,Unbilled,6.5
+,,,2012-07-19,Person A,Unbilled,2
+,,,2012-07-23,Person A,Unbilled,4
+,,,2012-07-27,Person A,Unbilled,4
+,,,2012-09-20,Person A,Unbilled,1
+,,,2012-09-27,Person A,Unbilled,2
+,,,2012-11-14,Person A,Unbilled,2
+,,,2012-11-15,Person A,Unbilled,9
+,,,2012-11-16,Person A,Unbilled,7
+,,,2012-11-19,Person A,Unbilled,6
+,,,2012-11-20,Person A,Unbilled,7
+,,,2012-11-21,Person A,Unbilled,2
+,,,2012-11-21,Person A,Unbilled,6
+,,,2012-11-22,Person A,Unbilled,8.5
+,,,2012-11-23,Person A,Unbilled,2
+,,,2012-11-27,Person A,Unbilled,2
+,,,2012-11-28,Person A,Unbilled,2
+,,,2012-11-30,Person A,Unbilled,4
+,,,2012-12-06,Person A,Unbilled,8
+,,,2012-12-07,Person A,Unbilled,4
+,,,2012-12-10,Person A,Unbilled,5
+,,,2012-12-11,Person A,Unbilled,3
+,,,2012-12-14,Person A,Unbilled,3
+,,Total Consulting H,,,,206.5
+,Total My Company:Sales:Sales Support,,,,,206.5
+,My Company:Time Off:Annual Leave,,,,,
+,,Consulting H,,,,
+,,,2012-01-03,Person A,Unbilled,8
+,,,2012-01-13,Person A,Unbilled,8
+,,,2012-01-16,Person A,Unbilled,8
+,,,2012-04-26,Person A,Unbilled,8
+,,,2012-04-27,Person A,Unbilled,8
+,,,2012-04-30,Person A,Unbilled,8
+,,,2012-05-01,Person A,Unbilled,8
+,,,2012-06-01,Person A,Unbilled,8
+,,,2012-06-28,Person A,Unbilled,8
+,,,2012-08-28,Person A,Unbilled,8
+,,,2012-08-29,Person A,Unbilled,8
+,,,2012-08-30,Person A,Unbilled,8
+,,,2012-08-31,Person A,Unbilled,8
+,,,2012-09-03,Person A,Unbilled,8
+,,,2012-09-04,Person A,Unbilled,8
+,,,2012-09-05,Person A,Unbilled,8
+,,,2012-09-06,Person A,Unbilled,8
+,,,2012-09-07,Person A,Unbilled,8
+,,,2012-12-03,Person A,Unbilled,8
+,,,2012-12-04,Person A,Unbilled,8
+,,,2012-12-05,Person A,Unbilled,8
+,,Total Consulting H,,,,168
+,Total My Company:Time Off:Annual Leave,,,,,168
+,My Company:Time Off:Bank Holiday,,,,,
+,,Consulting H,,,,
+,,,2012-01-02,Person A,Unbilled,8
+,,,2012-04-06,Person A,Unbilled,8
+,,,2012-04-09,Person A,Unbilled,8
+,,,2012-05-07,Person A,Unbilled,8
+,,,2012-06-04,Person A,Unbilled,8
+,,,2012-06-05,Person A,Unbilled,8
+,,,2012-08-27,Person A,Unbilled,8
+,,Total Consulting H,,,,56
+,Total My Company:Time Off:Bank Holiday,,,,,56
+,My Company:Time Off:Doctor/Dentist/Hospital,,,,,
+,,Consulting H,,,,
+,,,2012-07-09,Person A,Unbilled,1
+,,,2012-10-12,Person A,Unbilled,1
+,,Total Consulting H,,,,2
+,Total My Company:Time Off:Doctor/Dentist/Hospital,,,,,2
+,My Company:Time Off:Sick,,,,,
+,,Consulting H,,,,
+,,,2012-02-06,Person A,Unbilled,8
+,,,2012-03-15,Person A,Unbilled,8
+,,,2012-04-02,Person A,Unbilled,8
+,,,2012-04-23,Person A,Unbilled,4
+,,,2012-05-11,Person A,Unbilled,8
+,,,2012-05-29,Person A,Unbilled,8
+,,,2012-07-02,Person A,Unbilled,8
+,,,2012-07-25,Person A,Unbilled,8
+,,,2012-08-06,Person A,Unbilled,8
+,,,2012-09-18,Person A,Unbilled,8
+,,,2012-10-29,Person A,Unbilled,4
+,,Total Consulting H,,,,80
+,Total My Company:Time Off:Sick,,,,,80
+,Client E:Project E,,,,,
+,,Consulting H,,,,
+,,,2012-11-26,Person A,Unbilled,4
+,,,2012-11-29,Person A,Unbilled,3
+,,,2012-11-30,Person A,Unbilled,3
+,,,2012-12-07,Person A,Unbilled,2
+,,,2012-12-11,Person A,Unbilled,2
+,,,2012-12-12,Person A,Unbilled,8
+,,,2012-12-13,Person A,Unbilled,5
+,,Total Consulting H,,,,27
+,Total Client E:Project E,,,,,27
+,Client F:Project F,,,,,
+,,Consulting H,,,,
+,,,2012-05-28,Person A,Unbilled,2
+,,Total Consulting H,,,,2
+,Total Client F:Project F,,,,,2
+,Client F:Project G,,,,,
+,,Consulting H,,,,
+,,,2012-08-16,Person A,Unbilled,1
+,,,2012-08-21,Person A,Unbilled,2
+,,,2012-10-08,Person A,Unbilled,5
+,,,2012-10-09,Person A,Unbilled,5
+,,,2012-10-10,Person A,Unbilled,5
+,,,2012-10-15,Person A,Unbilled,4
+,,,2012-10-16,Person A,Unbilled,6
+,,,2012-10-17,Person A,Unbilled,8
+,,,2012-10-19,Person A,Unbilled,7
+,,,2012-10-22,Person A,Unbilled,3
+,,,2012-10-23,Person A,Unbilled,4.5
+,,,2012-10-24,Person A,Unbilled,8
+,,,2012-10-25,Person A,Unbilled,4.5
+,,,2012-10-31,Person A,Unbilled,1.5
+,,,2012-11-01,Person A,Unbilled,6.5
+,,,2012-11-02,Person A,Unbilled,4
+,,,2012-11-05,Person A,Unbilled,1
+,,,2012-11-06,Person A,Unbilled,1
+,,,2012-11-13,Person A,Unbilled,1
+,,,2012-11-20,Person A,Unbilled,1.5
+,,Total Consulting H,,,,79.5
+,Total Client F:Project G,,,,,79.5
+,Client G:SmartWorm,,,,,
+,,Consulting H,,,,
+,,,2012-06-20,Person A,Unbilled,4
+,,,2012-06-21,Person A,Unbilled,4
+,,,2012-06-22,Person A,Unbilled,4
+,,,2012-06-25,Person A,Unbilled,6
+,,,2012-06-26,Person A,Unbilled,4
+,,,2012-06-29,Person A,Unbilled,4
+,,Total Consulting H,,,,26
+,Total Client G:SmartWorm,,,,,26
+,Client H:Project J,,,,,
+,,Consulting H,,,,
+,,,2012-04-19,Person A,Unbilled,4
+,,,2012-04-20,Person A,Unbilled,2
+,,,2012-04-23,Person A,Unbilled,1
+,,,2012-04-24,Person A,Unbilled,4
+,,,2012-04-25,Person A,Unbilled,1
+,,Total Consulting H,,,,12
+,Total Client H:Project J,,,,,12
+,Client H:Project I,,,,,
+,,Consulting H,,,,
+,,,2012-02-28,Person A,Unbilled,8
+,,,2012-02-29,Person A,Unbilled,8
+,,,2012-03-01,Person A,Unbilled,4
+,,,2012-03-02,Person A,Unbilled,6
+,,,2012-03-05,Person A,Unbilled,1
+,,,2012-03-06,Person A,Unbilled,6
+,,,2012-03-07,Person A,Unbilled,1
+,,,2012-04-11,Person A,Unbilled,1
+,,,2012-04-12,Person A,Unbilled,1
+,,,2012-04-17,Person A,Unbilled,1
+,,Total Consulting H,,,,37
+,Total Client H:Project I,,,,,37
+,Client I:Project L,,,,,
+,,Consulting H,,,,
+,,,2012-12-10,Person A,Unbilled,2
+,,,2012-12-11,Person A,Unbilled,4
+,,Total Consulting H,,,,6
+,Total Client I:Project L,,,,,6
+,Client J:Project K,,,,,
+,,Consulting H,,,,
+,,,2012-05-22,Person A,Unbilled,8
+,,,2012-05-23,Person A,Unbilled,8
+,,,2012-08-02,Person A,Unbilled,3
+,,,2012-10-29,Person A,Unbilled,1
+,,,2012-10-30,Person A,Unbilled,7
+,,,2012-10-31,Person A,Unbilled,5
+,,,2012-11-01,Person A,Unbilled,2
+,,,2012-11-06,Person A,Unbilled,1
+,,,2012-11-07,Person A,Unbilled,6
+,,,2012-11-08,Person A,Unbilled,9
+,,,2012-11-09,Person A,Unbilled,6
+,,,2012-11-23,Person A,Unbilled,0.5
+,,Total Consulting H,,,,56.5
+,Total Client J:Project K,,,,,56.5
+,Client J:Oasis,,,,,
+,,Consulting H,,,,
+,,,2012-02-03,Person A,Unbilled,4
+,,,2012-02-07,Person A,Unbilled,6
+,,,2012-02-10,Person A,Unbilled,8
+,,,2012-02-13,Person A,Unbilled,5
+,,,2012-02-14,Person A,Unbilled,1
+,,,2012-02-20,Person A,Unbilled,4
+,,Total Consulting H,,,,28
+,Total Client J:Oasis,,,,,28
+,Client M:Project U,,,,,
+,,Consulting H,,,,
+,,,2012-05-21,Person A,Unbilled,6
+,,Total Consulting H,,,,6
+,Total Client M:Project U,,,,,6
+,Client N:Project T,,,,,
+,,Consulting H,,,,
+,,,2012-07-17,Person A,Unbilled,1
+,,,2012-07-20,Person A,Unbilled,1
+,,,2012-07-23,Person A,Unbilled,2
+,,,2012-07-27,Person A,Unbilled,4
+,,,2012-07-30,Person A,Unbilled,4
+,,,2012-08-01,Person A,Unbilled,4
+,,,2012-08-03,Person A,Unbilled,4
+,,,2012-08-07,Person A,Unbilled,3
+,,Total Consulting H,,,,23
+,Total Client N:Project T,,,,,23
+,Client O:Project S,,,,,
+,,Consulting H,,,,
+,,,2012-05-08,Person A,Unbilled,2
+,,,2012-05-09,Person A,Unbilled,8
+,,,2012-05-16,Person A,Unbilled,2
+,,Total Consulting H,,,,12
+,Total Client O:Project S,,,,,12
+,Client O:Project P,,,,,
+,,Consulting H,,,,
+,,,2012-07-17,Person A,Unbilled,5
+,,,2012-07-18,Person A,Unbilled,8
+,,,2012-07-19,Person A,Unbilled,6
+,,,2012-07-20,Person A,Unbilled,4.5
+,,,2012-07-24,Person A,Unbilled,8
+,,,2012-07-26,Person A,Unbilled,8
+,,,2012-07-30,Person A,Unbilled,1
+,,,2012-07-31,Person A,Unbilled,6
+,,,2012-08-01,Person A,Unbilled,2
+,,,2012-08-02,Person A,Unbilled,3.5
+,,,2012-08-03,Person A,Unbilled,2
+,,,2012-08-08,Person A,Unbilled,7
+,,,2012-08-09,Person A,Unbilled,2
+,,,2012-08-10,Person A,Unbilled,8
+,,,2012-08-13,Person A,Unbilled,5
+,,,2012-08-14,Person A,Unbilled,8
+,,,2012-08-15,Person A,Unbilled,4
+,,,2012-08-16,Person A,Unbilled,2
+,,,2012-08-17,Person A,Unbilled,4
+,,,2012-08-20,Person A,Unbilled,6
+,,,2012-08-21,Person A,Unbilled,6
+,,,2012-08-22,Person A,Unbilled,8
+,,,2012-08-23,Person A,Unbilled,4
+,,,2012-08-24,Person A,Unbilled,3
+,,,2012-09-10,Person A,Unbilled,6.5
+,,,2012-09-11,Person A,Unbilled,2
+,,,2012-09-12,Person A,Unbilled,2
+,,,2012-09-13,Person A,Unbilled,4
+,,,2012-09-14,Person A,Unbilled,8
+,,,2012-09-17,Person A,Unbilled,7
+,,,2012-09-19,Person A,Unbilled,1
+,,Total Consulting H,,,,151.5
+,Total Client O:Project P,,,,,151.5
+,Client O:Project O,,,,,
+,,Consulting H,,,,
+,,,2012-09-24,Person A,Unbilled,2
+,,,2012-09-26,Person A,Unbilled,2
+,,,2012-09-27,Person A,Unbilled,4.5
+,,,2012-09-28,Person A,Unbilled,7.5
+,,,2012-10-01,Person A,Unbilled,6
+,,,2012-10-02,Person A,Unbilled,6.5
+,,,2012-10-04,Person A,Unbilled,3.5
+,,,2012-10-10,Person A,Unbilled,3
+,,,2012-10-11,Person A,Unbilled,8
+,,,2012-10-12,Person A,Unbilled,5
+,,,2012-10-15,Person A,Unbilled,2
+,,,2012-10-16,Person A,Unbilled,2
+,,,2012-10-18,Person A,Unbilled,4
+,,,2012-10-22,Person A,Unbilled,2
+,,,2012-10-23,Person A,Unbilled,1
+,,,2012-10-26,Person A,Unbilled,7
+,,,2012-10-29,Person A,Unbilled,1
+,,,2012-10-30,Person A,Unbilled,1
+,,,2012-10-31,Person A,Unbilled,2
+,,,2012-11-02,Person A,Unbilled,1
+,,,2012-11-05,Person A,Unbilled,1
+,,,2012-11-09,Person A,Unbilled,1
+,,,2012-11-12,Person A,Unbilled,6
+,,,2012-11-13,Person A,Unbilled,4
+,,,2012-11-14,Person A,Unbilled,1
+,,Total Consulting H,,,,84
+,Total Client O:Project O,,,,,84
+,Client P:Saltburn,,,,,
+,,Consulting H,,,,
+,,,2012-01-04,Person A,Unbilled,2
+,,,2012-01-05,Person A,Unbilled,2
+,,Total Consulting H,,,,4
+,Total Client P:Saltburn,,,,,4
+,Client Q:Cox,,,,,
+,,Consulting H,,,,
+,,,2012-01-30,Person A,Unbilled,1
+,,,2012-01-31,Person A,Unbilled,5
+,,,2012-02-01,Person A,Unbilled,3
+,,,2012-02-03,Person A,Unbilled,1
+,,,2012-02-07,Person A,Unbilled,2
+,,,2012-02-08,Person A,Unbilled,4
+,,,2012-02-09,Person A,Unbilled,2
+,,,2012-02-13,Person A,Unbilled,2
+,,,2012-02-14,Person A,Unbilled,4
+,,,2012-02-15,Person A,Unbilled,2
+,,Total Consulting H,,,,26
+,Total Client Q:Cox,,,,,26
+,Client Q:Project N,,,,,
+,,Consulting H,,,,
+,,,2012-02-20,Person A,Unbilled,3
+,,,2012-03-06,Person A,Unbilled,2
+,,,2012-05-15,Person A,Unbilled,2
+,,,2012-05-18,Person A,Unbilled,1
+,,,2012-05-21,Person A,Unbilled,1
+,,Total Consulting H,,,,9
+,Total Client Q:Project N,,,,,9
+,Client R:Project M,,,,,
+,,Consulting H,,,,
+,,,2012-05-15,Person A,Unbilled,2
+,,,2012-05-17,Person A,Unbilled,2
+,,Total Consulting H,,,,4
+,Total Client R:Project M,,,,,4
+,Client S:Project V,,,,,
+,,Consulting H,,,,
+,,,2012-12-13,Person A,Unbilled,2
+,,Total Consulting H,,,,2
+,Total Client S:Project V,,,,,2
+TOTAL,,,,,,"2,002.00"
