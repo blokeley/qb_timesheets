@@ -30,10 +30,7 @@ __version__ = '0.2'
 def main():
     args = parse_args()
     
-    print(args)
-    
     if args.files:
-        print('args.files', args.files)
         process_files(args, *args.files)
 
     else:
